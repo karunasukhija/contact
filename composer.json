@@ -9,5 +9,16 @@
         "psr-4": {
             "rano\\contact\\": "src/"
         }
+    },
+    "extra" : {
+       "laravel":{
+         "providers":[
+                
+         "rano\\contact\\ContactServiceProvider"
+        ]
+        
+       }
     }
+    
+    
 }
