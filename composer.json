@@ -13,8 +13,7 @@
     "extra" : {
        "laravel":{
          "providers":[
-                
-         "rano\\contact\\ContactServiceProvider"
+          "rano\\contact\\ContactServiceProvider"
         ]
         
        }
