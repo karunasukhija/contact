@@ -13,7 +13,6 @@
   color:#fcc500;
   font-size: 45px;
 }
-
 .section-content{
   text-align: center; 
 
@@ -86,7 +85,7 @@ textarea.form-control {
                                                 <input type="email" class="form-control" id="exampleInputEmail" placeholder=" Enter Email id" name="email">
 					  	</div>	
 					  	<div class="form-group">
-					    	<label for="telephone">Mobile No.</label>
+					    	<label for="telephone">Phone No.</label>
 					    	<input type="tel" class="form-control" id="telephone" placeholder=" Enter 10-digit mobile no." name="mobile">
 			  			</div>
 			  		</div>
