@@ -7,11 +7,10 @@
    	<link href="https://fonts.googleapis.com/css?family=Teko:400,700" rel="stylesheet">
    	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <style>
-    /*Contact sectiom*/
 .content-header{
   font-family: 'Oleo Script', cursive;
   color:#fcc500;
-  font-size: 45px;
+  font-size: 46px;
 }
 .section-content{
   text-align: center; 
@@ -96,7 +95,6 @@ textarea.form-control {
 			  			</div>
 			  			<div>
                                                     <input type="submit" class="btn btn-default submit" value="Send Message">
-<!--			  				<button type="button" class="btn btn-default submit"><i class="fa fa-paper-plane" aria-hidden="true"></i>  Send Message</button>-->
 			  			</div>
 			  			
 					</div>
